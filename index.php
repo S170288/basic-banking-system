@@ -56,7 +56,7 @@
       </div>
       
       <footer class="text-center py-2">
-        <p>Internship project by<b> SHERIN SNEHA J</b> <br>@ The Sparks Foundation</p>
+        <p>Internship project by<b>MOHANRAJU</b> <br>@ The_Sparks_Foundation</p>
       </footer>
     
 
