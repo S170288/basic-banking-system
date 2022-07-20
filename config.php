@@ -2,7 +2,7 @@
 	$host = "localhost";
         $user = "root";
         $pass = "";
-        $db = "sparksbank_db";
+        $db = "bank_db";
         $charset = "utf8mb4";
 
         $conn = mysqli_connect($host, $user, $pass, $db);
